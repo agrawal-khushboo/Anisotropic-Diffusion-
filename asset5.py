@@ -1,12 +1,6 @@
-""" Assignment 5
 
-COMPLETE THIS FILE
-
-Your name here:
-
-"""
 import numpy as np
-from .assignment4 import *
+from .asset4 import *
 
 def kernel2fft(nu, n1, n2, separable=None):
     if separable==None:
