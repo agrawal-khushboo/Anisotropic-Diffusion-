@@ -1,12 +1,6 @@
-""" Project A
 
-COMPLETE THIS FILE
-
-Your names here:
-
-"""
 import numpy as np
-from .assignment6 import *
+from .asset6 import *
 
 class Identity(LinearOperator):
     def __init__(self, ishape):
