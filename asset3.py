@@ -1,12 +1,6 @@
-""" Assignment 3
 
-COMPLETE THIS FILE
 
-Your name here:
-
-"""
-
-from .assignment2 import *
+from .asset2 import *
 import math
 from math import e
 
