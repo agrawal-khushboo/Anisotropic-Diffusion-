@@ -1,12 +1,6 @@
-""" Assignment 6
 
-COMPLETE THIS FILE
-
-Your name here:
-
-"""
 import numpy as np
-from .assignment5 import *
+from .asset5 import *
 from math import e
 from .provided import *
 
